@@ -25,7 +25,9 @@ namespace SunnyLand
         public AudioClip _jumpAudio;
         public AudioClip _walkAudio;
         private AudioSource _sound;
-         
+
+        private bool isJumping;
+
         private void Awake()
         {
             // Setting up references.
@@ -48,7 +50,10 @@ namespace SunnyLand
             for (int i = 0; i < colliders.Length; i++)
             {
                 if (colliders[i].gameObject != gameObject)
+                {
                     m_Grounded = true;
+                    isJumping = false;
+                }
             }
 
             Collider2D[] colliders2 = Physics2D.OverlapCircleAll(_frontCheck.position, k_GroundedRadius, m_WhatIsGround);
@@ -110,7 +115,8 @@ namespace SunnyLand
                     {
                         _sound.PlayOneShot(_walkAudio);
                     }
-                }                
+                }
+
             }
             // If the player should jump...
             if (m_Grounded && jump && m_Anim.GetBool("Ground"))
@@ -122,7 +128,7 @@ namespace SunnyLand
                 {
                     _sound.PlayOneShot(_jumpAudio);
                 }
-
+                isJumping = true;
                 m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
             }
         }
@@ -152,6 +158,19 @@ namespace SunnyLand
             {
                 return _frontBlocked;
             }
+        }
+
+        public bool IsJumping
+        {
+            get
+            {
+                return isJumping;
+            }
+        }
+
+        public void GrantJumpPower()
+        {
+            m_JumpForce += 100;
         }
     }
 }

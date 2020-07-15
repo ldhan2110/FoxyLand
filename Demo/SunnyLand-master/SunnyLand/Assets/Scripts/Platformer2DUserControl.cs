@@ -10,8 +10,7 @@ namespace SunnyLand
     {
         private PlatformerCharacter2D m_Character;
         public Joystick joystick;
-        private bool m_Jump, crouch;
-        private float v = 0;
+        private bool m_Jump;
         private float h = 0;
 
 
@@ -22,29 +21,23 @@ namespace SunnyLand
 
         private void Update()
         {
-            v = joystick.Vertical;
-            if (!m_Jump)
-            {
-                // Read the jump input in Update so button presses aren't missed.
-                if(v>=.5f)
-                    m_Jump = true;
-            }
+     
         }
 
+        public void Jump()
+        {
+            m_Jump = true;
+        }
 
         private void FixedUpdate()
         {
             // Read the inputs.
-            if (v <= -.5f)
-            {
-                crouch = true;
-            }
-            else crouch = false;
 
+            bool crouch = Input.GetKey(KeyCode.LeftControl);
 
-
-            if (joystick.Horizontal >= .2f|| joystick.Horizontal <= -.2f) h = joystick.Horizontal;
-            else  h = 0;
+            if (joystick.Horizontal >= .3f) h = 1;
+            else if (joystick.Horizontal <= -.3f) h = -1;
+            else h = 0;
 
             // Pass all parameters to the character control script.
             m_Character.Move(h, crouch, m_Jump);

@@ -10,6 +10,8 @@ public sealed class ExitDoorReachedEventHandler : TriggerHandler
     public AudioClip _victoryAudio;
     private AudioSource _sound;
     private LevelSystem _system;
+    public Animator transition;
+    public float transitionTime = 1f;
 
     public void Awake()
     {
@@ -35,6 +37,10 @@ public sealed class ExitDoorReachedEventHandler : TriggerHandler
         {
             yield return null;
         }
+
+        transition.SetTrigger("Start");
+
+        yield return new WaitForSeconds(1);
 
         SceneManager.LoadScene(_system._nextScene);
     }
