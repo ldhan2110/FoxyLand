@@ -1,0 +1,6491 @@
+fileFormatVersion: 2
+guid: 4dbc88b1a68a4c84ca6be2ebd5638de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4381050206680159159
+    second: gdb-switch-1_0
+  - first:
+      213: -3460345265842959966
+    second: gdb-switch-1_1
+  - first:
+      213: -7389088226479104693
+    second: gdb-switch-1_0
+  - first:
+      213: -5193526108102438387
+    second: gdb-switch-1_2
+  - first:
+      213: -2005519789629285176
+    second: gdb-switch-1_3
+  - first:
+      213: -1802861692327629581
+    second: gdb-switch-1_4
+  - first:
+      213: 7015447054847769631
+    second: gdb-switch-1_5
+  - first:
+      213: -2792432236417854359
+    second: gdb-switch-1_6
+  - first:
+      213: 521504130647843206
+    second: gdb-switch-1_7
+  - first:
+      213: 4236334694156084955
+    second: gdb-switch-1_8
+  - first:
+      213: -2387418898560356485
+    second: gdb-switch-1_9
+  - first:
+      213: 7098144325000141500
+    second: gdb-switch-1_10
+  - first:
+      213: 4270478630929854574
+    second: gdb-switch-1_11
+  - first:
+      213: 887308371886374474
+    second: gdb-switch-1_12
+  - first:
+      213: -8138913946150246364
+    second: gdb-switch-1_13
+  - first:
+      213: -391252804851253662
+    second: gdb-switch-1_14
+  - first:
+      213: 5161608067690452306
+    second: gdb-switch-1_15
+  - first:
+      213: -742092896779794576
+    second: gdb-switch-1_16
+  - first:
+      213: 8541941392721380215
+    second: gdb-switch-1_17
+  - first:
+      213: -2576803348815104325
+    second: gdb-switch-1_18
+  - first:
+      213: 7681231107271428330
+    second: gdb-switch-1_19
+  - first:
+      213: 413971218448340095
+    second: gdb-switch-1_20
+  - first:
+      213: -4593405333816489045
+    second: gdb-switch-1_21
+  - first:
+      213: 8111349184125975757
+    second: gdb-switch-1_22
+  - first:
+      213: 1367217915319868444
+    second: gdb-switch-1_23
+  - first:
+      213: -1293731576401109989
+    second: gdb-switch-1_24
+  - first:
+      213: -2708602189184895041
+    second: gdb-switch-1_25
+  - first:
+      213: -1706016983750796855
+    second: gdb-switch-1_26
+  - first:
+      213: 7443285776897476195
+    second: gdb-switch-1_27
+  - first:
+      213: 8745628825653263048
+    second: gdb-switch-1_28
+  - first:
+      213: -4618285107104547764
+    second: gdb-switch-1_29
+  - first:
+      213: -1202354483271513152
+    second: gdb-switch-1_30
+  - first:
+      213: 243771575761289910
+    second: gdb-switch-1_31
+  - first:
+      213: -8375858510358563926
+    second: gdb-switch-1_32
+  - first:
+      213: 6946724942515658188
+    second: gdb-switch-1_33
+  - first:
+      213: -4908863387314032404
+    second: gdb-switch-1_34
+  - first:
+      213: -5232553566719137241
+    second: gdb-switch-1_35
+  - first:
+      213: 2751752429117915905
+    second: gdb-switch-1_36
+  - first:
+      213: 9207628381754702382
+    second: gdb-switch-1_37
+  - first:
+      213: -1032233098153628482
+    second: gdb-switch-1_38
+  - first:
+      213: 4310208010617185423
+    second: gdb-switch-1_39
+  - first:
+      213: -3123350656711695618
+    second: gdb-switch-1_40
+  - first:
+      213: 1829119711007467893
+    second: gdb-switch-1_41
+  - first:
+      213: -3956944132631647499
+    second: gdb-switch-1_42
+  - first:
+      213: -2392802890930658155
+    second: gdb-switch-1_43
+  - first:
+      213: 7483170963847109682
+    second: gdb-switch-1_44
+  - first:
+      213: -1692313019517942250
+    second: gdb-switch-1_45
+  - first:
+      213: -3687488995338546654
+    second: gdb-switch-1_46
+  - first:
+      213: 7401675377834854980
+    second: gdb-switch-1_47
+  - first:
+      213: 7263839297272326906
+    second: gdb-switch-1_48
+  - first:
+      213: -1049508423465219663
+    second: gdb-switch-1_49
+  - first:
+      213: 4591704582321113127
+    second: gdb-switch-1_50
+  - first:
+      213: 7412792752313859369
+    second: gdb-switch-1_51
+  - first:
+      213: -8507717147634836089
+    second: gdb-switch-1_52
+  - first:
+      213: -6844005143775066417
+    second: gdb-switch-1_53
+  - first:
+      213: -181248637078541532
+    second: gdb-switch-1_54
+  - first:
+      213: -6947598538214992732
+    second: gdb-switch-1_55
+  - first:
+      213: 1826225476054785220
+    second: gdb-switch-1_56
+  - first:
+      213: 3285482176445450717
+    second: gdb-switch-1_57
+  - first:
+      213: -4191579518218790936
+    second: gdb-switch-1_58
+  - first:
+      213: 1261038316541380527
+    second: gdb-switch-1_59
+  - first:
+      213: -7415429347133672844
+    second: gdb-switch-1_60
+  - first:
+      213: 5594260930234947926
+    second: gdb-switch-1_61
+  - first:
+      213: -6523082646592968911
+    second: gdb-switch-1_62
+  - first:
+      213: 321533611908704047
+    second: gdb-switch-1_63
+  - first:
+      213: 1836036690738343569
+    second: gdb-switch-1_64
+  - first:
+      213: 7887048033917819983
+    second: gdb-switch-1_65
+  - first:
+      213: -8013540708041783539
+    second: gdb-switch-1_66
+  - first:
+      213: 2056193215454159307
+    second: gdb-switch-1_67
+  - first:
+      213: 3513708209216573198
+    second: gdb-switch-1_68
+  - first:
+      213: 8289896849067650154
+    second: gdb-switch-1_69
+  - first:
+      213: 7623331067824370838
+    second: gdb-switch-1_70
+  - first:
+      213: 4062134807092437499
+    second: gdb-switch-1_71
+  - first:
+      213: 8821612431085329754
+    second: gdb-switch-1_72
+  - first:
+      213: 1882455144968517622
+    second: gdb-switch-1_73
+  - first:
+      213: -1671700840376182063
+    second: gdb-switch-1_74
+  - first:
+      213: -9158306636539081478
+    second: gdb-switch-1_75
+  - first:
+      213: -4033469362428562388
+    second: gdb-switch-1_76
+  - first:
+      213: 4816925207619681974
+    second: gdb-switch-1_77
+  - first:
+      213: 2492338476585099255
+    second: gdb-switch-1_78
+  - first:
+      213: -1345685852285813814
+    second: gdb-switch-1_79
+  - first:
+      213: 5737078363381851009
+    second: gdb-switch-1_80
+  - first:
+      213: 6633088755684243850
+    second: gdb-switch-1_81
+  - first:
+      213: -4466214244327178300
+    second: gdb-switch-1_82
+  - first:
+      213: 8119212653473749808
+    second: gdb-switch-1_83
+  - first:
+      213: -4035312280251053218
+    second: gdb-switch-1_84
+  - first:
+      213: -7693761825736233277
+    second: gdb-switch-1_85
+  - first:
+      213: -6023690780517098873
+    second: gdb-switch-1_86
+  - first:
+      213: -2907981686604461740
+    second: gdb-switch-1_87
+  - first:
+      213: 6743146179048375155
+    second: gdb-switch-1_88
+  - first:
+      213: 614572157660950903
+    second: gdb-switch-1_89
+  - first:
+      213: 1341560064653602618
+    second: gdb-switch-1_90
+  - first:
+      213: 1392729698527735366
+    second: gdb-switch-1_91
+  - first:
+      213: -9012194348103920369
+    second: gdb-switch-1_92
+  - first:
+      213: 2352696227150293043
+    second: gdb-switch-1_93
+  - first:
+      213: -44913538470181174
+    second: gdb-switch-1_94
+  - first:
+      213: 3284360127018587069
+    second: gdb-switch-1_95
+  - first:
+      213: 8750918580377490216
+    second: gdb-switch-1_96
+  - first:
+      213: 6696331342119877267
+    second: gdb-switch-1_97
+  - first:
+      213: -1933749028946076932
+    second: gdb-switch-1_98
+  - first:
+      213: -5522906079292837371
+    second: gdb-switch-1_99
+  - first:
+      213: 7697908372961066819
+    second: gdb-switch-1_100
+  - first:
+      213: 3851268886242230406
+    second: gdb-switch-1_101
+  - first:
+      213: -5613208744721061097
+    second: gdb-switch-1_102
+  - first:
+      213: -3309556950796970295
+    second: gdb-switch-1_103
+  - first:
+      213: -3983250354296101623
+    second: gdb-switch-1_104
+  - first:
+      213: 2080301075327520483
+    second: gdb-switch-1_105
+  - first:
+      213: -6334192249747714346
+    second: gdb-switch-1_106
+  - first:
+      213: -8369131343636269
+    second: gdb-switch-1_107
+  - first:
+      213: -853040555869864076
+    second: gdb-switch-1_108
+  - first:
+      213: 3263400331642516417
+    second: gdb-switch-1_109
+  - first:
+      213: -3465004974501252155
+    second: gdb-switch-1_110
+  - first:
+      213: 4427883822582899330
+    second: gdb-switch-1_111
+  - first:
+      213: -1356273254804362481
+    second: gdb-switch-1_112
+  - first:
+      213: 8296806279100355233
+    second: gdb-switch-1_113
+  - first:
+      213: -4846663424150818245
+    second: gdb-switch-1_114
+  - first:
+      213: 1595404885563701542
+    second: gdb-switch-1_115
+  - first:
+      213: -5232947219408246901
+    second: gdb-switch-1_116
+  - first:
+      213: 4856755746795560877
+    second: gdb-switch-1_117
+  - first:
+      213: -829832979460435483
+    second: gdb-switch-1_118
+  - first:
+      213: -4152791987659932290
+    second: gdb-switch-1_119
+  - first:
+      213: -1646430878922550779
+    second: gdb-switch-1_120
+  - first:
+      213: -4786588904169162182
+    second: gdb-switch-1_121
+  - first:
+      213: -822119518581110750
+    second: gdb-switch-1_122
+  - first:
+      213: 6635657923856884666
+    second: gdb-switch-1_123
+  - first:
+      213: 2459106638798649660
+    second: gdb-switch-1_124
+  - first:
+      213: -3808265946119476161
+    second: gdb-switch-1_125
+  - first:
+      213: -7146608590932566100
+    second: gdb-switch-1_126
+  - first:
+      213: -3046440648430959499
+    second: gdb-switch-1_127
+  - first:
+      213: -8726918522565051780
+    second: gdb-switch-1_128
+  - first:
+      213: 3679856500557062307
+    second: gdb-switch-1_129
+  - first:
+      213: 167992305121078121
+    second: gdb-switch-1_130
+  - first:
+      213: 4260271129386293133
+    second: gdb-switch-1_131
+  - first:
+      213: -1551808307732394677
+    second: gdb-switch-1_132
+  - first:
+      213: 8888639927465141459
+    second: gdb-switch-1_133
+  - first:
+      213: -2490608221275373087
+    second: gdb-switch-1_134
+  - first:
+      213: 7292795051677085845
+    second: gdb-switch-1_135
+  - first:
+      213: 6370758302303558381
+    second: gdb-switch-1_136
+  - first:
+      213: -8292044007616272534
+    second: gdb-switch-1_137
+  - first:
+      213: 3071550805202001241
+    second: gdb-switch-1_138
+  - first:
+      213: 236036054999530019
+    second: gdb-switch-1_139
+  - first:
+      213: -3171088301076717066
+    second: gdb-switch-1_140
+  - first:
+      213: 7395029222823699562
+    second: gdb-switch-1_141
+  - first:
+      213: 8249163684132990862
+    second: gdb-switch-1_142
+  - first:
+      213: 6804313395547764359
+    second: gdb-switch-1_143
+  - first:
+      213: 6002486956757364349
+    second: gdb-switch-1_144
+  - first:
+      213: -2195126281482223748
+    second: gdb-switch-1_145
+  - first:
+      213: -5818130605725786044
+    second: gdb-switch-1_146
+  - first:
+      213: 5668309219542317610
+    second: gdb-switch-1_147
+  - first:
+      213: 8655114464759537589
+    second: gdb-switch-1_148
+  - first:
+      213: 126019193591965133
+    second: gdb-switch-1_149
+  - first:
+      213: -4080865083900983897
+    second: gdb-switch-1_150
+  - first:
+      213: -3159392248575516310
+    second: gdb-switch-1_151
+  - first:
+      213: 5456603386680039239
+    second: gdb-switch-1_152
+  - first:
+      213: 3630784729569976450
+    second: gdb-switch-1_153
+  - first:
+      213: 9017994095345639063
+    second: gdb-switch-1_154
+  - first:
+      213: 3751830168037977237
+    second: gdb-switch-1_155
+  - first:
+      213: 3000645886010305009
+    second: gdb-switch-1_156
+  - first:
+      213: -3950713800315074999
+    second: gdb-switch-1_157
+  - first:
+      213: -119179782884206431
+    second: gdb-switch-1_158
+  - first:
+      213: 1478075670125541134
+    second: gdb-switch-1_159
+  - first:
+      213: -435298433806084377
+    second: gdb-switch-1_160
+  - first:
+      213: -4371742724175543722
+    second: gdb-switch-1_161
+  - first:
+      213: -4585027760815029257
+    second: gdb-switch-1_162
+  - first:
+      213: 1873108993455062821
+    second: gdb-switch-1_163
+  - first:
+      213: -877482731909021802
+    second: gdb-switch-1_164
+  - first:
+      213: -2002988252380465148
+    second: gdb-switch-1_165
+  - first:
+      213: 6735626983111202716
+    second: gdb-switch-1_166
+  - first:
+      213: 6854221630555544638
+    second: gdb-switch-1_167
+  - first:
+      213: 4214991182193852802
+    second: gdb-switch-1_168
+  - first:
+      213: 3767480996932025777
+    second: gdb-switch-1_169
+  - first:
+      213: -5525928917378262401
+    second: gdb-switch-1_170
+  - first:
+      213: 2110413673525520855
+    second: gdb-switch-1_171
+  - first:
+      213: -101581630464917775
+    second: gdb-switch-1_172
+  - first:
+      213: -7741460077625510944
+    second: gdb-switch-1_173
+  - first:
+      213: -2341322208351569764
+    second: gdb-switch-1_174
+  - first:
+      213: 7991930330073839628
+    second: gdb-switch-1_175
+  - first:
+      213: -133237321959358671
+    second: gdb-switch-1_176
+  - first:
+      213: -7653464611029815250
+    second: gdb-switch-1_177
+  - first:
+      213: 654155686591864094
+    second: gdb-switch-1_178
+  - first:
+      213: 3838580554434201294
+    second: gdb-switch-1_179
+  - first:
+      213: 108459618623126165
+    second: gdb-switch-1_180
+  - first:
+      213: -6815404976668193700
+    second: gdb-switch-1_181
+  - first:
+      213: -417268011340785164
+    second: gdb-switch-1_182
+  - first:
+      213: -489049219121589156
+    second: gdb-switch-1_183
+  - first:
+      213: 133171806435000425
+    second: gdb-switch-1_184
+  - first:
+      213: -7626529326016242243
+    second: gdb-switch-1_185
+  - first:
+      213: -5741499757790245847
+    second: gdb-switch-1_186
+  - first:
+      213: -2493474969214843765
+    second: gdb-switch-1_187
+  - first:
+      213: 9001118137987523256
+    second: gdb-switch-1_188
+  - first:
+      213: 2589088609125763103
+    second: gdb-switch-1_189
+  - first:
+      213: -7139544957493952441
+    second: gdb-switch-1_190
+  - first:
+      213: -1267406838063670417
+    second: gdb-switch-1_191
+  - first:
+      213: -6291911512718733404
+    second: gdb-switch-1_192
+  - first:
+      213: 706692750123097485
+    second: gdb-switch-1_193
+  - first:
+      213: 4710818776032619939
+    second: gdb-switch-1_194
+  - first:
+      213: 7470856348228083298
+    second: gdb-switch-1_195
+  - first:
+      213: -4861129802686484743
+    second: gdb-switch-1_196
+  - first:
+      213: 5073735021671035629
+    second: gdb-switch-1_197
+  - first:
+      213: 4143694310895625305
+    second: gdb-switch-1_198
+  - first:
+      213: 1690463987927077026
+    second: gdb-switch-1_199
+  - first:
+      213: -957800199256242510
+    second: gdb-switch-1_200
+  - first:
+      213: -6264072964521035001
+    second: gdb-switch-1_201
+  - first:
+      213: -3942019737383823946
+    second: gdb-switch-1_202
+  - first:
+      213: 2181743850888127090
+    second: gdb-switch-1_203
+  - first:
+      213: 966471453885374294
+    second: gdb-switch-1_204
+  - first:
+      213: 6075923656845876691
+    second: gdb-switch-1_205
+  - first:
+      213: -9017386006096210099
+    second: gdb-switch-1_206
+  - first:
+      213: -7571592265526129737
+    second: gdb-switch-1_207
+  - first:
+      213: 1483433327207288111
+    second: gdb-switch-1_208
+  - first:
+      213: 6148587028915084153
+    second: gdb-switch-1_209
+  - first:
+      213: -6624533081811132999
+    second: gdb-switch-1_210
+  - first:
+      213: 6942425282199505323
+    second: gdb-switch-1_211
+  - first:
+      213: -1415556945543560228
+    second: gdb-switch-1_212
+  - first:
+      213: -6531429310670418794
+    second: gdb-switch-1_213
+  - first:
+      213: 8564060855876256308
+    second: gdb-switch-1_214
+  - first:
+      213: -5088774270891104043
+    second: gdb-switch-1_215
+  - first:
+      213: 2121438191897975740
+    second: gdb-switch-1_216
+  - first:
+      213: 398049354029488931
+    second: gdb-switch-1_217
+  - first:
+      213: 2449945751360791315
+    second: gdb-switch-1_218
+  - first:
+      213: 7659554278193511890
+    second: gdb-switch-1_219
+  - first:
+      213: 3293824252835986887
+    second: gdb-switch-1_220
+  - first:
+      213: 4744689048426150129
+    second: gdb-switch-1_221
+  - first:
+      213: 6543565546459537085
+    second: gdb-switch-1_222
+  - first:
+      213: 5993165230939478197
+    second: gdb-switch-1_223
+  - first:
+      213: -8599111680345437879
+    second: gdb-switch-1_224
+  - first:
+      213: -3292249942665518148
+    second: gdb-switch-1_225
+  - first:
+      213: -1312189554689244532
+    second: gdb-switch-1_226
+  - first:
+      213: 7394171191795314294
+    second: gdb-switch-1_227
+  - first:
+      213: -2899652207468634208
+    second: gdb-switch-1_228
+  - first:
+      213: 2503286257430535023
+    second: gdb-switch-1_229
+  - first:
+      213: -737725423098656300
+    second: gdb-switch-1_230
+  - first:
+      213: 453044590446183057
+    second: gdb-switch-1_231
+  - first:
+      213: -561497600876403761
+    second: gdb-switch-1_232
+  - first:
+      213: -870224988646912299
+    second: gdb-switch-1_233
+  - first:
+      213: -6689991209917728193
+    second: gdb-switch-1_234
+  - first:
+      213: 8597696745804989319
+    second: gdb-switch-1_235
+  - first:
+      213: -2912219419538616950
+    second: gdb-switch-1_236
+  - first:
+      213: -635252249377957843
+    second: gdb-switch-1_237
+  - first:
+      213: -8448001056508223709
+    second: gdb-switch-1_238
+  - first:
+      213: 848057395235585185
+    second: gdb-switch-1_239
+  - first:
+      213: 3680901676027313092
+    second: gdb-switch-1_240
+  - first:
+      213: 7911455329753237946
+    second: gdb-switch-1_241
+  - first:
+      213: 3380184674672780198
+    second: gdb-switch-1_242
+  - first:
+      213: -6453755359037783352
+    second: gdb-switch-1_243
+  - first:
+      213: 5814781725274352135
+    second: gdb-switch-1_244
+  - first:
+      213: -5808474412451129368
+    second: gdb-switch-1_245
+  - first:
+      213: -8379189115829680985
+    second: gdb-switch-1_246
+  - first:
+      213: -2494756053462210713
+    second: gdb-switch-1_247
+  - first:
+      213: -4646618370793035757
+    second: gdb-switch-1_248
+  - first:
+      213: 8163044659420027111
+    second: gdb-switch-1_249
+  - first:
+      213: -7940588766232664717
+    second: gdb-switch-1_250
+  - first:
+      213: -9106354486536736946
+    second: gdb-switch-1_251
+  - first:
+      213: -6618479991972426672
+    second: gdb-switch-1_252
+  - first:
+      213: -8960347198546353849
+    second: gdb-switch-1_253
+  - first:
+      213: -1126108251631429168
+    second: gdb-switch-1_254
+  - first:
+      213: -5451122190595361313
+    second: gdb-switch-1_255
+  - first:
+      213: 642554524771923985
+    second: gdb-switch-1_256
+  - first:
+      213: -8651480052618975220
+    second: gdb-switch-1_257
+  - first:
+      213: 1041664693006612084
+    second: gdb-switch-1_258
+  - first:
+      213: 8394873346479533042
+    second: gdb-switch-1_259
+  - first:
+      213: -7283560103425476053
+    second: gdb-switch-1_260
+  - first:
+      213: -4038302797257235211
+    second: gdb-switch-1_261
+  - first:
+      213: -8131119611851867997
+    second: gdb-switch-1_262
+  - first:
+      213: 6765702661121625008
+    second: gdb-switch-1_263
+  - first:
+      213: 7206130430766472703
+    second: gdb-switch-1_264
+  - first:
+      213: -6084661837790509047
+    second: gdb-switch-1_265
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdb-switch-1_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 486
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d11b6386fa47990800000000000000
+      internalID: -7389088226479104693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 486
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c93d70526affc0800000000000000
+      internalID: -3460345265842959966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 471
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0256da6583ece7b0800000000000000
+      internalID: -5193526108102438387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 471
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc51258066fa24e0800000000000000
+      internalID: -2005519789629285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 472
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce6a1c7d2faf6e0800000000000000
+      internalID: -1802861692327629581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 470
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf2cc4defdb5160800000000000000
+      internalID: 7015447054847769631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 471
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d6f80da94f39d0800000000000000
+      internalID: -2792432236417854359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 471
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e9286e31cc3700800000000000000
+      internalID: 521504130647843206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 453
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd626d295fb7aca30800000000000000
+      internalID: 4236334694156084955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 340
+        width: 14
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f614d292f2eded0800000000000000
+      internalID: -2387418898560356485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 452
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9610f7aca18260800000000000000
+      internalID: 7098144325000141500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 452
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60787950b9c34b30800000000000000
+      internalID: 4270478630929854574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 452
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7488534a505c00800000000000000
+      internalID: 887308371886374474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 455
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ed3643e4cc0f80800000000000000
+      internalID: -8138913946150246364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 455
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e377d95adf19af0800000000000000
+      internalID: -391252804851253662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 453
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255da70b037b1a740800000000000000
+      internalID: 5161608067690452306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 453
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778911317e83b5f0800000000000000
+      internalID: -742092896779794576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 455
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730d5580721b8670800000000000000
+      internalID: 8541941392721380215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 455
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b6d9b10b5d3cd0800000000000000
+      internalID: -2576803348815104325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 454
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80892cef6399a60800000000000000
+      internalID: 7681231107271428330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 452
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7459de31a8beb500800000000000000
+      internalID: 413971218448340095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 452
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcb709f22f040c0800000000000000
+      internalID: -4593405333816489045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 452
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccbbf07b1d419070800000000000000
+      internalID: 8111349184125975757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 452
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd03d337559f210800000000000000
+      internalID: 1367217915319868444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 437
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd7e95cfdbb0ee0800000000000000
+      internalID: -1293731576401109989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 436
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f9c3e8ac196ad0800000000000000
+      internalID: -2708602189184895041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 436
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c910c697920358e0800000000000000
+      internalID: -1706016983750796855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 436
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36601b55afcdb4760800000000000000
+      internalID: 7443285776897476195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 429
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caba72a417be5970800000000000000
+      internalID: 8745628825653263048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 429
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7e8fe92e88efb0800000000000000
+      internalID: -4618285107104547764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 429
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc082c7f0605fe0800000000000000
+      internalID: -1202354483271513152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 429
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c693e4fc026300800000000000000
+      internalID: 243771575761289910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 429
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33521ef09f2cb80800000000000000
+      internalID: -8375858510358563926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 429
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdddf6a789b76060800000000000000
+      internalID: 6946724942515658188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 437
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f93ce1c630ebb0800000000000000
+      internalID: -4908863387314032404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 436
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa08b114c3267b0800000000000000
+      internalID: -5232553566719137241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 436
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103446f3140303620800000000000000
+      internalID: 2751752429117915905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 436
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a3b46aa3118cf70800000000000000
+      internalID: 9207628381754702382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 436
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce62b5775cca1f0800000000000000
+      internalID: -1032233098153628482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 438
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8461e4695fe0db30800000000000000
+      internalID: 4310208010617185423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_40
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 436
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef267bd3021a7a4d0800000000000000
+      internalID: -3123350656711695618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 436
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e342afa6526910800000000000000
+      internalID: 1829119711007467893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_42
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 436
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faac62b64c1619c0800000000000000
+      internalID: -3956944132631647499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 436
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ec84c27e0bced0800000000000000
+      internalID: -2392802890930658155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 421
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cdf95185099d760800000000000000
+      internalID: 7483170963847109682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164dd66642b388e0800000000000000
+      internalID: -1692313019517942250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 420
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221fafbb4863dcc0800000000000000
+      internalID: -3687488995338546654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0a965a8808b660800000000000000
+      internalID: 7401675377834854980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 412
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa07bfa575ec460800000000000000
+      internalID: 7263839297272326906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 412
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9439e36a56f61f0800000000000000
+      internalID: -1049508423465219663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 412
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72888ce5df209bf30800000000000000
+      internalID: 4591704582321113127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 412
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df14bcbb78fd660800000000000000
+      internalID: 7412792752313859369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 412
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd9bd74548ee980800000000000000
+      internalID: -8507717147634836089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 412
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6475435953501a0800000000000000
+      internalID: -6844005143775066417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 421
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be8ea23531c7df0800000000000000
+      internalID: -181248637078541532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 420
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a41caf70fb259f90800000000000000
+      internalID: -6947598538214992732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 420
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc930c056e085910800000000000000
+      internalID: 1826225476054785220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 420
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd988ead1a0689d20800000000000000
+      internalID: 3285482176445450717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_58
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 420
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e714c8d2a484d5c0800000000000000
+      internalID: -4191579518218790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 422
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70b99eaab108110800000000000000
+      internalID: 1261038316541380527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_60
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 420
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47237132c4a171990800000000000000
+      internalID: -7415429347133672844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 420
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65910872daec2ad40800000000000000
+      internalID: 5594260930234947926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_62
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 420
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137af49c4ea5975a0800000000000000
+      internalID: -6523082646592968911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_63
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 420
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27aa21dd11567400800000000000000
+      internalID: 321533611908704047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 405
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eea0a74a9ea7910800000000000000
+      internalID: 1836036690738343569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 404
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5d14466c647d60800000000000000
+      internalID: 7887048033917819983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 404
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0789000f2f2ac090800000000000000
+      internalID: -8013540708041783539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a6b4d5d0198c10800000000000000
+      internalID: 2056193215454159307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_68
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 393
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4ab6fff233c030800000000000000
+      internalID: 3513708209216573198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 393
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cae413341ab0370800000000000000
+      internalID: 8289896849067650154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 393
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fede47338bc960800000000000000
+      internalID: 7623331067824370838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 393
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ae7eb51a9f5830800000000000000
+      internalID: 4062134807092437499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 393
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dd20564c9ac6a70800000000000000
+      internalID: 8821612431085329754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 393
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7747d0bf2df1a10800000000000000
+      internalID: 1882455144968517622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 407
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dad7a651fcecc8e0800000000000000
+      internalID: -1671700840376182063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 404
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4cf803a827e080800000000000000
+      internalID: -9158306636539081478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 404
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2436003cfc3608c0800000000000000
+      internalID: -4033469362428562388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 404
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebbc584f729d240800000000000000
+      internalID: 4816925207619681974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_78
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 404
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff94e4b3a0969220800000000000000
+      internalID: 2492338476585099255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 406
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb3c3bd8d9235de0800000000000000
+      internalID: -1345685852285813814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 404
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18364f900623e9f40800000000000000
+      internalID: 5737078363381851009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_81
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 403
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89723664177d0c50800000000000000
+      internalID: 6633088755684243850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 404
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb61ccec1d402c0800000000000000
+      internalID: -4466214244327178300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 404
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd82214ec3da070800000000000000
+      internalID: 8119212653473749808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4dd17cd0bff7c0800000000000000
+      internalID: -4035312280251053218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee78ef1644a3590800000000000000
+      internalID: -7693761825736233277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 388
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a9b76662d876ca0800000000000000
+      internalID: -6023690780517098873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459899c2016c4a7d0800000000000000
+      internalID: -2907981686604461740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_88
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 391
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37306be19b7749d50800000000000000
+      internalID: 6743146179048375155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 388
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f93a0f16678800800000000000000
+      internalID: 614572157660950903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 388
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f278a55cd2e9210800000000000000
+      internalID: 1341560064653602618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_91
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 388
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee1e42848f35310800000000000000
+      internalID: 1392729698527735366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 388
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059b723df04ee280800000000000000
+      internalID: -9012194348103920369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_93
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e1b3e0c476a020800000000000000
+      internalID: 2352696227150293043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 388
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac601edef5f606ff0800000000000000
+      internalID: -44913538470181174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_95
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 388
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3566d5224649d20800000000000000
+      internalID: 3284360127018587069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 388
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82314c1a512817970800000000000000
+      internalID: 8750918580377490216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_97
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 388
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abe5180e52eec50800000000000000
+      internalID: 6696331342119877267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 373
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa99ece081f925e0800000000000000
+      internalID: -1933749028946076932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_99
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 372
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b7e7be22ba53b0800000000000000
+      internalID: -5522906079292837371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 372
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f79d341e674da60800000000000000
+      internalID: 7697908372961066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 372
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808bfaa5a4727530800000000000000
+      internalID: 3851268886242230406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be8c00360e912b0800000000000000
+      internalID: -5613208744721061097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 374
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c652dfec771212d0800000000000000
+      internalID: -3309556950796970295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_104
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 374
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9056bbc28e6a8b8c0800000000000000
+      internalID: -3983250354296101623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 376
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee82cc5ec6bedc10800000000000000
+      internalID: 2080301075327520483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_106
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 372
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de41c675bd6818a0800000000000000
+      internalID: -6334192249747714346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 372
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81f23c15442eff0800000000000000
+      internalID: -8369131343636269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_108
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 372
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fff5052246924f0800000000000000
+      internalID: -853040555869864076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_109
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 372
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b177bf4de94d20800000000000000
+      internalID: 3263400331642516417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_110
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 374
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c334e58554d9efc0800000000000000
+      internalID: -3465004974501252155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_111
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 372
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a0cf60e0037d30800000000000000
+      internalID: 4427883822582899330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_112
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 372
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be50d19ac8d2de0800000000000000
+      internalID: -1356273254804362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_113
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 372
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d10c3a5d242370800000000000000
+      internalID: 8296806279100355233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_114
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 372
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bc916b413dbcb0800000000000000
+      internalID: -4846663424150818245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62972f46a44042610800000000000000
+      internalID: 1595404885563701542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 356
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87adc2ba36d067b0800000000000000
+      internalID: -5232947219408246901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_117
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 356
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf16989e99a66340800000000000000
+      internalID: 4856755746795560877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_118
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 356
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15b544d47db74f0800000000000000
+      internalID: -829832979460435483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_119
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df07d80b15e56c0800000000000000
+      internalID: -4152791987659932290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_120
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 361
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502569ab6d3b629e0800000000000000
+      internalID: -1646430878922550779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_121
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 361
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3abb2980ce929db0800000000000000
+      internalID: -4786588904169162182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 360
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ce0457ae3794f0800000000000000
+      internalID: -822119518581110750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_123
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 356
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ee7a79b7961c50800000000000000
+      internalID: 6635657923856884666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_124
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 356
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f5668570802220800000000000000
+      internalID: 2459106638798649660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_125
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 356
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce45f8c42562bc0800000000000000
+      internalID: -3808265946119476161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_126
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 356
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf95b4d95522dc90800000000000000
+      internalID: -7146608590932566100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57446f8fe5ed8b5d0800000000000000
+      internalID: -3046440648430959499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_128
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 358
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abbb647d1c3e680800000000000000
+      internalID: -8726918522565051780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_129
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 356
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ad149df9711330800000000000000
+      internalID: 3679856500557062307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_130
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96badb78c14d45200800000000000000
+      internalID: 167992305121078121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_131
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 356
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d871ce135068f1b30800000000000000
+      internalID: 4260271129386293133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_132
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4c12e09ed67ae0800000000000000
+      internalID: -1551808307732394677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e9e48beaca5b70800000000000000
+      internalID: 8888639927465141459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_134
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 340
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1c630c4059f6dd0800000000000000
+      internalID: -2490608221275373087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_135
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 340
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59070fae576353560800000000000000
+      internalID: 7292795051677085845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_136
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 340
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9ca61cea796850800000000000000
+      internalID: 6370758302303558381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_137
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 345
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67202088edbcec80800000000000000
+      internalID: -8292044007616272534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_138
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d51adfe2750aa20800000000000000
+      internalID: 3071550805202001241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_139
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7e6c9a81964300800000000000000
+      internalID: 236036054999530019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_140
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ece6cdf70ef3d0800000000000000
+      internalID: -3171088301076717066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_141
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642a0ac5eb60a660800000000000000
+      internalID: 7395029222823699562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_142
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 342
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8facce2aaaea7270800000000000000
+      internalID: 8249163684132990862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_143
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 340
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867e028bf6cd6e50800000000000000
+      internalID: 6804313395547764359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_144
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 340
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e207aa51e1d4350800000000000000
+      internalID: 6002486956757364349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_145
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 340
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb02bf6485981e0800000000000000
+      internalID: -2195126281482223748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_146
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 340
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e2e43a09d14fa0800000000000000
+      internalID: -5818130605725786044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a34e30431e9ae40800000000000000
+      internalID: 5668309219542317610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_148
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf565abfb42d1870800000000000000
+      internalID: 8655114464759537589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52ee4f9c5bfb100800000000000000
+      internalID: 126019193591965133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_150
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 329
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a589c9d3dadd57c0800000000000000
+      internalID: -4080865083900983897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 329
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a8853d759724d0800000000000000
+      internalID: -3159392248575516310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_152
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 322
+        width: 116
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d14faedfb9bb40800000000000000
+      internalID: 5456603386680039239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_153
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 294
+        width: 244
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806eed8973236230800000000000000
+      internalID: 3630784729569976450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_154
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 277
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e95afa9d9562d70800000000000000
+      internalID: 9017994095345639063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_155
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6f77e8ad211430800000000000000
+      internalID: 3751830168037977237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_156
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 276
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a164098f64a920800000000000000
+      internalID: 3000645886010305009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468cfafabe3c29c0800000000000000
+      internalID: -3950713800315074999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a857c07e96985ef0800000000000000
+      internalID: -119179782884206431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_159
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07faf4adfd238410800000000000000
+      internalID: 1478075670125541134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 278
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e654b9716285f9f0800000000000000
+      internalID: -435298433806084377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_161
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 278
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524e14a7237453c0800000000000000
+      internalID: -4371742724175543722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_162
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 278
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c0574b85be50c0800000000000000
+      internalID: -4585027760815029257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_163
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 276
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7a7494be9ef910800000000000000
+      internalID: 1873108993455062821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_164
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 276
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff50cba1e82d3f0800000000000000
+      internalID: -877482731909021802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_165
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f497fbc4f334e0800000000000000
+      internalID: -2002988252380465148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_166
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 276
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9711e3ed01c97d50800000000000000
+      internalID: 6735626983111202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_167
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 261
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cdf0df1461f1f50800000000000000
+      internalID: 6854221630555544638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_168
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 260
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818112f528ae7a30800000000000000
+      internalID: 4214991182193852802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_169
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdfa287108c84430800000000000000
+      internalID: 3767480996932025777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_170
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1c916de4ff43b0800000000000000
+      internalID: -5525928917378262401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_171
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 265
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ad9bfd02b94d10800000000000000
+      internalID: 2110413673525520855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 265
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefe689b0c179ef0800000000000000
+      internalID: -101581630464917775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_173
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 262
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3734e431fc09490800000000000000
+      internalID: -7741460077625510944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_174
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 260
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b87a3bd3f18fd0800000000000000
+      internalID: -2341322208351569764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_175
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 260
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b8b9ca4a09ee60800000000000000
+      internalID: 7991930330073839628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 260
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb9c19c55a62ef0800000000000000
+      internalID: -133237321959358671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_177
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 260
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207b8e6c7e69c590800000000000000
+      internalID: -7653464611029815250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_178
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d1c1f8127041900800000000000000
+      internalID: 654155686591864094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_179
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c5c43da0654530800000000000000
+      internalID: 3838580554434201294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7180d273518100800000000000000
+      internalID: 108459618623126165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c43458841da61a0800000000000000
+      internalID: -6815404976668193700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_182
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f916e754f0953af0800000000000000
+      internalID: -417268011340785164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_183
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 246
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c545398835c8639f0800000000000000
+      internalID: -489049219121589156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_184
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 246
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c7a86d0f19d100800000000000000
+      internalID: 133171806435000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_185
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 247
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd3bd2cff192690800000000000000
+      internalID: -7626529326016242243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_186
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ccbead3681250b0800000000000000
+      internalID: -5741499757790245847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_187
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 244
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840f9bf9b5656dd0800000000000000
+      internalID: -2493474969214843765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_188
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 244
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2621ca1456aec70800000000000000
+      internalID: 9001118137987523256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_189
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 244
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1883f65f5a4ee320800000000000000
+      internalID: 2589088609125763103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_190
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 244
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74044a620bd3bec90800000000000000
+      internalID: -7139544957493952441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_191
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 229
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b505f1234496ee0800000000000000
+      internalID: -1267406838063670417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af853ea0d3aea8a0800000000000000
+      internalID: -6291911512718733404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_193
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5e60ef4daec900800000000000000
+      internalID: 706692750123097485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_194
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 228
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2aa2c7b0306140800000000000000
+      internalID: 4710818776032619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_195
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 233
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5b143440dda760800000000000000
+      internalID: 7470856348228083298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_196
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 233
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feaec7233cc98cb0800000000000000
+      internalID: -4861129802686484743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_197
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 233
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23923de17896640800000000000000
+      internalID: 5073735021671035629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_198
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 233
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954adb2850c518930800000000000000
+      internalID: 4143694310895625305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_199
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0dbf16a0cb57710800000000000000
+      internalID: 1690463987927077026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_200
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6888d1bc535b2f0800000000000000
+      internalID: -957800199256242510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_201
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 228
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7896c3da8119a0800000000000000
+      internalID: -6264072964521035001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_202
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b598af3fe12b49c0800000000000000
+      internalID: -3942019737383823946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_203
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 228
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726417197c174e10800000000000000
+      internalID: 2181743850888127090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_204
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 99
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f946eaaa8996d00800000000000000
+      internalID: 966471453885374294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_205
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 202
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd0b0df54025450800000000000000
+      internalID: 6075923656845876691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_206
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 198
+        width: 165
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479e00243fcbd280800000000000000
+      internalID: -9017386006096210099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_207
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb483553fc4ce690800000000000000
+      internalID: -7571592265526129737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_208
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 180
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d8a2460c6369410800000000000000
+      internalID: 1483433327207288111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_209
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 180
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bde01835b245550800000000000000
+      internalID: 6148587028915084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_210
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd2d7a24ee014a0800000000000000
+      internalID: -6624533081811132999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94139f203785060800000000000000
+      internalID: 6942425282199505323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_212
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd30a8d357eea5ce0800000000000000
+      internalID: -1415556945543560228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 173
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4aed95a3bb55a0800000000000000
+      internalID: -6531429310670418794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_214
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432055d59f7a9d670800000000000000
+      internalID: 8564060855876256308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_215
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8636913ca0169b0800000000000000
+      internalID: -5088774270891104043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_216
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 182
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9601bbccd07d10800000000000000
+      internalID: 2121438191897975740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_217
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 182
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b500e47c7268500800000000000000
+      internalID: 398049354029488931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_218
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31366d43ea4fff120800000000000000
+      internalID: 2449945751360791315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_219
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3c81b8043c4a60800000000000000
+      internalID: 7659554278193511890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_220
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 180
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdfaded4b306bd20800000000000000
+      internalID: 3293824252835986887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_221
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f870251d8588d140800000000000000
+      internalID: 4744689048426150129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_222
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9439f13a6fca50800000000000000
+      internalID: 6543565546459537085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_223
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89e5e36000c2350800000000000000
+      internalID: 5993165230939478197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949091d9c71d9a880800000000000000
+      internalID: -8599111680345437879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_225
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32f97ce149f42d0800000000000000
+      internalID: -3292249942665518148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_226
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8205c26d8a2acde0800000000000000
+      internalID: -1312189554689244532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_227
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee26fd58f5d9660800000000000000
+      internalID: 7394171191795314294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_228
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af97a92ead52c7d0800000000000000
+      internalID: -2899652207468634208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_229
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b934196957db220800000000000000
+      internalID: 2503286257430535023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_230
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 156
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90e66e2a213c5f0800000000000000
+      internalID: -737725423098656300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_231
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 169
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19205f897a9894600800000000000000
+      internalID: 453044590446183057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_232
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 169
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3278d28e82538f0800000000000000
+      internalID: -561497600876403761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_233
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 168
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4805cbf65ce3f0800000000000000
+      internalID: -870224988646912299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_234
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3e5e80706823a0800000000000000
+      internalID: -6689991209917728193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_235
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 164
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7830d3443a7215770800000000000000
+      internalID: 8597696745804989319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_236
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 164
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d08661ed7b597d0800000000000000
+      internalID: -2912219419538616950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_237
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 164
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281f05e1712f27f0800000000000000
+      internalID: -635252249377957843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_238
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd3bc6ccba2ca80800000000000000
+      internalID: -8448001056508223709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_239
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf82035b7e4cb00800000000000000
+      internalID: 848057395235585185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_240
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 148
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb7fb47290351330800000000000000
+      internalID: 3680901676027313092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 148
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9005aa4b22bcd60800000000000000
+      internalID: 7911455329753237946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_242
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 148
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a327197d04d8ee20800000000000000
+      internalID: 3380184674672780198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_243
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28745c1b7af66a0800000000000000
+      internalID: -6453755359037783352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_244
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a296dcb2142b050800000000000000
+      internalID: 5814781725274352135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_245
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e797e6eb47246fa0800000000000000
+      internalID: -5808474412451129368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_246
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4072dd4e327bb80800000000000000
+      internalID: -8379189115829680985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_247
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76721205698d06dd0800000000000000
+      internalID: -2494756053462210713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_248
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 150
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a31ae535e38fb0800000000000000
+      internalID: -4646618370793035757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_249
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 151
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8516a3ed5f84170800000000000000
+      internalID: 8163044659420027111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_250
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ae31969c5dc190800000000000000
+      internalID: -7940588766232664717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_251
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f613f87dabf9180800000000000000
+      internalID: -9106354486536736946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_252
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 132
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0475738f6624a0800000000000000
+      internalID: -6618479991972426672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_253
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7416a7662b376a380800000000000000
+      internalID: -8960347198546353849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_254
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 132
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95fd2f2824f50f0800000000000000
+      internalID: -1126108251631429168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_255
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 137
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5705abf39b954b0800000000000000
+      internalID: -5451122190595361313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_256
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 137
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b9d59fefcae800800000000000000
+      internalID: 642554524771923985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_257
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 137
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a44acab4cfe780800000000000000
+      internalID: -8651480052618975220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_258
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 137
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b9b1f48cb47e00800000000000000
+      internalID: 1041664693006612084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_259
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbae47a4d4908470800000000000000
+      internalID: 8394873346479533042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_260
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 116
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afd170da89bea90800000000000000
+      internalID: -7283560103425476053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_261
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 116
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f42402700115f7c0800000000000000
+      internalID: -4038302797257235211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_262
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87b552bc5782f80800000000000000
+      internalID: -8131119611851867997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_263
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 116
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc11c59ba94ed50800000000000000
+      internalID: 6765702661121625008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_264
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd7f27271510460800000000000000
+      internalID: 7206130430766472703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-switch-1_265
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 117
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080f14eb40fe8ba0800000000000000
+      internalID: -6084661837790509047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6116bbf4532ad941ada4aff8a0640aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
