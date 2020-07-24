@@ -16,7 +16,7 @@ public class OpossumAIController : MonoBehaviour
 
     private void FixedUpdate ()
     {
-        if (!_character.IsGrounded || _character.IsFrontBlocked)
+        if (!_character.IsGrounded || _character.IsFrontBlockedByTile)
         {
             _character.Flip();
             _speed *= -1f;

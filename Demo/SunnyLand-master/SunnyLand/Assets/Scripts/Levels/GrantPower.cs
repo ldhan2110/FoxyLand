@@ -15,12 +15,14 @@ public sealed class GrantPower : MonoBehaviour
     private AudioSource _audio;
     private SpriteRenderer _spriteRenderer;
     private Collider2D _collider;
+    private Animator m_Anim;           
 
     public void Awake()
     {
         _audio = GetComponent<AudioSource>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _collider = GetComponent<Collider2D>();
+        m_Anim = GetComponent<Animator>();
 
         _colliders = new List<GameObject>();
     }
@@ -37,7 +39,9 @@ public sealed class GrantPower : MonoBehaviour
 
         if (_actors.Contains(other.gameObject.tag))
         {
-            StartCoroutine("LastBreath");
+            m_Anim.SetTrigger("Touch");
+
+            StartCoroutine("GivePower");
 
             TriggerEvent.Invoke(new TriggerEventArgs(gameObject, other.gameObject));
         }
@@ -48,17 +52,19 @@ public sealed class GrantPower : MonoBehaviour
         _colliders.Remove(other.gameObject);
     }
 
-    private IEnumerator LastBreath()
+    private IEnumerator GivePower()
     {
-        _collider.enabled = false;
-        _spriteRenderer.enabled = false;
-        _audio.Play();
 
+        _audio.Play();
         while (_audio.isPlaying)
         {
             yield return null;
         }
+    }
 
+    public void Destroy()
+    {
         Destroy(gameObject);
+
     }
 }

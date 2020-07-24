@@ -20,7 +20,7 @@ public class GemCounter : TriggerHandler
 
     public override void Handle(TriggerEventArgs args)
     {        
-        _collected++;
+        _collected+=1;
        _score.UpdateText(_collected + "/" + _total);
     }
 }

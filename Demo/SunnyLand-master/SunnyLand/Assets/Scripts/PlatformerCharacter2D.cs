@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 namespace SunnyLand
@@ -16,6 +17,8 @@ namespace SunnyLand
         const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
         private bool m_Grounded;            // Whether or not the player is grounded.
         private bool _frontBlocked;
+        private bool _frontBlockedByTile;
+
         private Transform m_CeilingCheck;   // A position marking where to check for ceilings
         const float k_CeilingRadius = .01f; // Radius of the overlap circle to determine if the player can stand up
         private Animator m_Anim;            // Reference to the player's animator component.
@@ -41,8 +44,12 @@ namespace SunnyLand
 
         private void FixedUpdate()
         {
+            if (m_Rigidbody2D == null)
+                return;
             m_Grounded = false;
             _frontBlocked = false;
+            _frontBlockedByTile = false;
+            isJumping = true;
 
             // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
             // This can be done using layers instead but Sample Assets will not overwrite your project settings.
@@ -60,10 +67,31 @@ namespace SunnyLand
             for (int i = 0; i < colliders2.Length; i++)
             {
                 if (colliders2[i].gameObject != gameObject)
+                {
                     _frontBlocked = true;
+                    _frontBlockedByTile = true;
+
+                }
+                if (colliders2[i].gameObject.tag == "Player")
+                    _frontBlockedByTile = false;
             }
             m_Anim.SetBool("Ground", m_Grounded);
+            if (HasParameter("isJumping", m_Anim))
+                m_Anim.SetBool("isJumping", isJumping);
+            if(isJumping)
+            {
+                if (m_Rigidbody2D.velocity.y < .1f&& HasParameter("isFalling", m_Anim))
+                    m_Anim.SetBool("isFalling", true);
+                else if (m_Rigidbody2D.velocity.y >= .1f && HasParameter("isFalling", m_Anim))
+                    m_Anim.SetBool("isFalling", false);
+            }
+            else
+            {
 
+                if (HasParameter("isFalling", m_Anim))
+                    m_Anim.SetBool("isFalling", false);
+
+            }
             // Set the vertical animation
             m_Anim.SetFloat("vSpeed", m_Rigidbody2D.velocity.y);
         }
@@ -71,6 +99,8 @@ namespace SunnyLand
 
         public void Move(float move, bool crouch, bool jump)
         {
+            if (m_Rigidbody2D == null)
+                return;
             // If crouching, check to see if the character can stand up
             if (!crouch && m_Anim.GetBool("Crouch"))
             {
@@ -133,6 +163,8 @@ namespace SunnyLand
             }
         }
 
+
+
         public void Flip()
         {
             // Switch the way the player is labelled as facing.
@@ -159,6 +191,13 @@ namespace SunnyLand
                 return _frontBlocked;
             }
         }
+        public bool IsFrontBlockedByTile
+        {
+            get
+            {
+                return _frontBlockedByTile;
+            }
+        }
 
         public bool IsJumping
         {
@@ -168,9 +207,51 @@ namespace SunnyLand
             }
         }
 
+
+        public void Explode()
+        {
+            m_Anim.SetTrigger("Death");
+            m_Rigidbody2D.velocity = Vector2.zero;
+        }
+
+        public void Death()
+        {
+            Destroy(this.gameObject);
+
+        }
         public void GrantJumpPower()
         {
             m_JumpForce += 100;
+        }
+
+        public void Hurt(float hurtForce)
+        {
+
+            if (m_FacingRight)
+            {
+                m_Rigidbody2D.velocity = new Vector2(-hurtForce, m_Rigidbody2D.velocity.y);
+            }
+            else 
+            {
+                m_Rigidbody2D.velocity = new Vector2(hurtForce , m_Rigidbody2D.velocity.y);
+            }
+
+        }
+
+        public void Bounce()
+        {
+            m_Rigidbody2D.AddForce(new Vector2(0f, 400f));
+
+        }
+
+        public static bool HasParameter(string paramName, Animator animator)
+        {
+            foreach (AnimatorControllerParameter param in animator.parameters)
+            {
+                if (param.name == paramName)
+                    return true;
+            }
+            return false;
         }
     }
 }
