@@ -59,15 +59,15 @@ namespace SunnyLand
 
             }
 
-            if(m_Health==3)
+            if(m_Health>=3)
             {
                 _Health.GetComponent<Image>().sprite = m_FullHealth;
             }
-            else if(m_Health==2)
+            else if(m_Health>=2&&m_Health<3)
             {
                 _Health.GetComponent<Image>().sprite = m_HalfHealth;
             }
-            else if(m_Health==1)
+            else if(m_Health>=1&&m_Health<2)
             {
                 _Health.GetComponent<Image>().sprite = m_EmptyHealth;
             }
@@ -82,7 +82,7 @@ namespace SunnyLand
         public void getHurt()
         {
             m_Health -= 0.5f;
-            if (m_Health <= 0)
+            if (m_Health <= 0.5)
             {
                 m_Character.Explode();
             }
@@ -117,6 +117,7 @@ namespace SunnyLand
 
         public void ResetGame()
         {
+            Physics2D.IgnoreLayerCollision(12, 13, false);
             _AfterDeath.Reset();
         }
 
