@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Gem
   - Cherry
+  - MovePlatform
   layers:
   - Default
   - TransparentFX
