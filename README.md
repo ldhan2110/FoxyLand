@@ -1,2 +1,0 @@
-# FoxyLand
-Game mobile
