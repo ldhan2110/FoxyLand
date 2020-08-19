@@ -9,13 +9,12 @@ public sealed class ExitDoorReachedEventHandler : TriggerHandler
     public string[] _actors;
     public AudioClip _victoryAudio;
     private AudioSource _sound;
-    private LevelSystem _system;
     public Animator transition;
     public float transitionTime = 1f;
 
     public void Awake()
     {
-        _system = GetComponent<LevelSystem>();
+
         _sound = GetComponent<AudioSource>();
     }
 
@@ -42,6 +41,6 @@ public sealed class ExitDoorReachedEventHandler : TriggerHandler
 
         yield return new WaitForSeconds(1);
 
-        SceneManager.LoadScene(_system._nextScene);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
