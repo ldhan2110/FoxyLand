@@ -12,9 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 1.unity
     guid: 873f0edd5db17cb4385b917294f2c8a7
   - enabled: 1
+    path: Assets/Scenes/Level An.unity
+    guid: 024f2c7fec0be934bb38043ff01f52a9
+  - enabled: 1
+    path: Assets/Scenes/Level Dinh.unity
+    guid: 560d30b6c6aea497782da1c8c2e82703
+  - enabled: 1
     path: Assets/Scenes/Level Hung.unity
     guid: a152ebf31905ea049ae4957c5c9e0635
   - enabled: 1
-    path: Assets/Scenes/Level An.unity
-    guid: 024f2c7fec0be934bb38043ff01f52a9
+    path: Assets/Scenes/Level Hieu.unity
+    guid: 874c82260ddc96b4f8cbc31d7355383f
+  - enabled: 1
+    path: Assets/Scenes/Level Hoang.unity
+    guid: 12fea45adbef7d34780e626dfbc0a4b7
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: b5e54339f2a66b445854660a9baba2b0
   m_configObjects: {}

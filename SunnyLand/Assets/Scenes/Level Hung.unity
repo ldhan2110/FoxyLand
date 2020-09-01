@@ -22153,18 +22153,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &171274930 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114546668328034782, guid: c71a1536009575e47a90c48cb0a9ea16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1914788559}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 718fe7a7b9d6ade44bc18e2b35dc458d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &189230603
 GameObject:
   m_ObjectHideFlags: 0
@@ -67926,6 +67914,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 82285565571221214, guid: c71a1536009575e47a90c48cb0a9ea16,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 08c6dfab73d0ae1408cd1b416150494d, type: 3}
     - target: {fileID: 114546668328034782, guid: c71a1536009575e47a90c48cb0a9ea16,
         type: 3}
       propertyPath: _nextScene
@@ -69014,7 +69007,7 @@ PrefabInstance:
         type: 3}
       propertyPath: _AfterDeath
       value: 
-      objectReference: {fileID: 171274930}
+      objectReference: {fileID: 0}
     - target: {fileID: 114405638300721572, guid: a1e831846e6c6b1489b812db948ce609,
         type: 3}
       propertyPath: OnHurt.m_PersistentCalls.m_Calls.Array.data[0].m_Target
