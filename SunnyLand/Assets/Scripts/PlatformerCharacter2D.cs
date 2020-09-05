@@ -27,6 +27,7 @@ namespace SunnyLand
 
         public AudioClip _jumpAudio;
         public AudioClip _walkAudio;
+        public AudioClip _deathAudio;
         private AudioSource _sound;
 
         private bool isJumping;
@@ -211,6 +212,9 @@ namespace SunnyLand
 
         public void Explode()
         {
+            _sound.volume = 0.25f;
+            _sound.priority = 167;
+            _sound.PlayOneShot(_deathAudio);
             m_Anim.SetTrigger("Death");
             m_Rigidbody2D.velocity = Vector2.zero;
         }

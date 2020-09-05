@@ -42,6 +42,7 @@ public sealed class GrantPower : MonoBehaviour
             m_Anim.SetTrigger("Touch");
 
             StartCoroutine("GivePower");
+            _audio.Play();
 
             TriggerEvent.Invoke(new TriggerEventArgs(gameObject, other.gameObject));
         }
@@ -55,7 +56,6 @@ public sealed class GrantPower : MonoBehaviour
     private IEnumerator GivePower()
     {
 
-        _audio.Play();
         while (_audio.isPlaying)
         {
             yield return null;
